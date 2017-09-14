@@ -1,1 +1,1 @@
-README TO BE FILLED OUT
+Basically a simple React-Native app with some Redux (following Stephen Grider's guide on React Native and Redux) that displays a list of technologies and allows them to be clicked on, expanding to show a description. 
